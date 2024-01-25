@@ -1,4 +1,4 @@
-Under Night Title Editor by Zander3312
+Under Night Title Editor by Zander3312. Works with UNICLR and Uni 2.
 
 NOTICE: There is no guarantee you won't be banned for using a custom title. There have been no bans so far from use in UNICLR over the past 2 years, but the possibility is still nonzero. Use at your own risk and don't say I didn't warn you.
 
